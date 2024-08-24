@@ -14,7 +14,7 @@ function App() {
         </a>{" "}
         | Developed by{" "}
         <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav Ghai
+          Gaurav Sonkar
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://www.htmlhints.com/">
